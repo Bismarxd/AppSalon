@@ -1,0 +1,8 @@
+
+b1d8ee6bbfc458
+
+a93569be
+
+heroku config:set DB_HOST=us-cdbr-east-06.cleardb.net
+
+heroku_d744cebc5b781e5
